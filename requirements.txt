@@ -1,0 +1,10 @@
+pypdf
+langchain
+langchain-text-splitters
+sentence-transformers
+anthropic
+gradio
+fastapi
+uvicorn
+pydantic
+numpy
