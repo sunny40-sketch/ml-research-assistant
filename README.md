@@ -49,3 +49,6 @@ python rag_complete.py --api
 - How does LoRA reduce trainable parameters?
 - What is the key contribution of FlashAttention?
 - How does RAG combine retrieval with generation?
+
+## Live Demo
+https://ml-research-assistant-production.up.railway.app/
